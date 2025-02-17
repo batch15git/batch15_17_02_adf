@@ -1,0 +1,14 @@
+{
+	"server_name": {
+		"type": "string",
+		"value": "batch15sqlserver.database.windows.net"
+	},
+	"dbname": {
+		"type": "string",
+		"value": "batch15sqldb"
+	},
+	"storagename": {
+		"type": "string",
+		"value": "https://batch15gen2243.dfs.core.windows.net/"
+	}
+}
